@@ -1,0 +1,4 @@
+leapGestRecog/
+.venv/
+__pycache__/
+*.pyc
